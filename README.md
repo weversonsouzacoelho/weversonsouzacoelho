@@ -29,11 +29,3 @@
 <img src="https://img.shields.io/badge/Microsoft%20SQL%20Sever-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white" />
 <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=black" />
 </div>
-
-<br>
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=weversonsouzacoelho&count_private=true&show_icons=true&theme=dark&hide=contribs,prs) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=weversonsouzacoelho&count_private=true&show_icons=true&theme=dark)](https://github.com/weversonsouzacoelho/github-readme-stats)
-
-
-
-
