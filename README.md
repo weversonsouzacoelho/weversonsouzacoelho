@@ -31,5 +31,6 @@
 </div>
 
 <br>
+## 💻  Time 
 
-[![Wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=weversonsouzacoelho)]
+![Wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=weversonsouzacoelho&theme=chartreuse-dark)
