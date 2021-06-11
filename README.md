@@ -30,7 +30,6 @@
 <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=black" />
 </div>
 
-<br>
-# 💻  Time 
+# ⚡ Time 
 
 ![Wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=weversonsouzacoelho&theme=chartreuse-dark)
