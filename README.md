@@ -20,7 +20,7 @@
 <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" /> 
 </div>
 
-## ⚡ Database 
+# ⚡ Database 
 
 <div style="float:left">
 <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" /> 
@@ -31,6 +31,6 @@
 </div>
 
 <br>
-## 💻  Time 
+# 💻  Time 
 
 ![Wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=weversonsouzacoelho&theme=chartreuse-dark)
